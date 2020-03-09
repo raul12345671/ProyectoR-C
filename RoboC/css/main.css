@@ -1,0 +1,50 @@
+.color1{
+    background-color: red;
+}
+.color2{
+    background-color: blue;
+}
+.color3{
+    background-color: green;
+}
+.color4{
+    background-color: black;
+}
+.texto99{
+    font-family: 'Aldrich', ;
+}
+
+div#general{
+    margin: auto;
+    margin-top: 50px;
+    width: 1000px;
+    height: 700px;
+    background-color: black
+}
+div#caratula{
+    float: right;
+    width: 500px;
+    height: 500px;
+    background-color: red
+}
+
+div#datosC{
+    width: 500px;   
+    height: 500px;
+    background-color: blue
+ 
+}
+div#nextC{
+    float: left;
+    width: 500px;
+    height: 115px;
+    background-color: purple
+}
+div#reproductor{
+    float: right;
+    width: 500px;
+    height: 115px;
+    background-color: green
+}
+
+
